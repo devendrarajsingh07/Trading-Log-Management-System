@@ -1,0 +1,2 @@
+ID,Symbol,Side,Strategy,Remarks,Trade Date,Entry Price,Exit Price,Quantity,Profit
+1,"Reliance","BUY","breakout","test one","2026-06-01",1000.0,1100.0,10,1000.0
