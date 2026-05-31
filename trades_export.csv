@@ -1,2 +1,5 @@
-ID,Symbol,Side,Strategy,Remarks,Trade Date,Entry Price,Exit Price,Quantity,Profit
-1,"Reliance","BUY","breakout","test one","2026-06-01",1000.0,1100.0,10,1000.0
+ID,Symbol,Side,Strategy,Remarks,Trade Date,Entry Price,Exit Price,Quantity,Live Price,Profit,Live Profit
+4,"nvda","BUY","","","2026-06-01",2000.0,3000.0,34,211.14,34000.0,-60821.240000000005
+3,"dell","BUY","","","2026-06-01",300.0,310.0,34,420.91,340.0,4110.9400000000005
+2,"IBM","BUY","","","2026-06-01",100.0,105.0,10,297.8,50.0,1978.0
+1,"Reliance","BUY","breakout","test one","2026-06-01",1000.0,1100.0,10,0.0,1000.0,0.0
